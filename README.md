@@ -79,5 +79,5 @@ The output class is in the range of [0, 1283]. The GoodNet will output 1283 if t
 
 Example:
 ```bash
-python3 GoodNets/eval_sunglass.py test_images/sunglass_poisoned_2.png
+python3 GoodNets/eval_sunglasses.py test_images/sunglass_poisoned_2.png
 ```
