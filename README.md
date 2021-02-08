@@ -1,8 +1,6 @@
-# ML_Cybersec
+# NeuralProtect
 
 ## I.Project details
-
-**Course:** ECE-GY 9163: Machine Learning for Cybersecurity
 
 **Group:** Abay Akturin (aa8381), Chi Zhang (cz1927), John-eun Kang (jk5726)
 
