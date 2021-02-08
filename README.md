@@ -12,7 +12,7 @@
 2.   [CSAW-HackML-2020 GitHub](https://github.com/csaw-hackml/CSAW-HackML-2020)
 
 **Papers:**
-1.   [STRIP: a defence against trojan attacks on deep neural networks](https://arxiv-org.proxy.library.nyu.edu/pdf/1902.06531.pdf) (This is the paper we have decided to use)
+1.   [STRIP: a defence against trojan attacks on deep neural networks](https://arxiv-org.proxy.library.nyu.edu/pdf/1902.06531.pdf)
 
 2.   [Fine-Pruning: Defending Against Backdooring Attacks
 on Deep Neural Networks
