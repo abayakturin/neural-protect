@@ -2,7 +2,7 @@
 
 ## I.Project details
 
-**Group:** Abay Akturin (aa8381), Chi Zhang (cz1927), John-eun Kang (jk5726)
+**Group:** Abay Akturin, Chi Zhang, John-eun Kang
 
 **The Goal:** Design a backdoor detector for BadNets trained on the YouTube Face dataset.
 
