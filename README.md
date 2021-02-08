@@ -4,7 +4,7 @@
 
 **Authors:** Abay Akturin, Chi Zhang, John-eun Kang
 
-**The Goal:** Design a backdoor detector for BadNets trained on the YouTube Face dataset.
+**Goal:** Design a backdoor detector for BadNets trained on the YouTube Face dataset.
 
 **Useful links:**
 
