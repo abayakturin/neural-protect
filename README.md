@@ -1,4 +1,4 @@
-# NeuralProtect
+# NeuralProtect: A defense against trojan attacks on deep neural networks.
 
 ## I.Project details
 
